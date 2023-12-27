@@ -1,6 +1,7 @@
 # Expense Tracker
 The program is an interactive python implementation of a basic expense tracker.
 When you run the program, it asks you to pick an option from 1-5:
+
   Expense Tracker
 >>> 1. Add an expense
 >>> 2. List all expenses
